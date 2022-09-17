@@ -17,3 +17,5 @@ Projeto construído do evento Next Level Week da Rocketseat.
 ## 📞 Contato
 
 thiagoluiz526@gmail.com
+
+https://www.linkedin.com/in/thiago-luiz-dev/
